@@ -118,4 +118,4 @@ XOXO
 
 Luis Miranda 
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="200" height="200" />
+<img src="https://giphy.com/gifs/snl-saturday-night-live-season-49-PNlNcLUSK5tbE5a973" width="500" height="500" />
