@@ -33,8 +33,6 @@ Para executar este projeto, é necessário:
     
 5. Acesso ao **VSCode** como editor de desenvolvimento.
 
----
-
 ## **Passo a Passo**
 
 ### **1. Clone o Repositório**
@@ -46,8 +44,6 @@ git clone https://github.com/seu-usuario/terraform-aws-ec2.git
 cd terraform-aws-ec2
 
 ```
-
----
 
 ### **2. Inicializar o Terraform**
 
@@ -119,6 +115,7 @@ terraform destroy
 Este tutorial demonstrou o uso do Terraform para provisionar recursos na AWS com uma abordagem de Infraestrutura como Código (IaC). Se você reparar, não possuímos imagens demonstrando na prática como cada comando funciona e o resultado esperado. Isso ocorre porque minha capacidade intelectual é limitada, mas tenho fé de que você vai conseguir. Não desista! :)
 
 XOXO
-Luis Miranda
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+Luis Miranda 
+
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="200" height="40" />
