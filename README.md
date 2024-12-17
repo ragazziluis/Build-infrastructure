@@ -118,6 +118,4 @@ XOXO
 
 Luis Miranda 
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhpamxnZGJkOGgzbTJpbjBzejI5cDNucTF5cHJoZG93dnQ4bmYwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ngBWVHQ0ClO/giphy.webp" width="450" height="500" />
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzQ5amp2d2ozbXhpdGk2NWU3cnV1cnM4MGo2OTVudzNnY3htM2trMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.webp" width="450" height="500" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhpamxnZGJkOGgzbTJpbjBzejI5cDNucTF5cHJoZG93dnQ4bmYwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ngBWVHQ0ClO/giphy.webp" width="250" height="250" /> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzQ5amp2d2ozbXhpdGk2NWU3cnV1cnM4MGo2OTVudzNnY3htM2trMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.webp" width="250" height="250" />
